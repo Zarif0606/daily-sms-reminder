@@ -221,3 +221,4 @@ credentials.json
 token.json
 .env
 .venv/
+.DS_Store
